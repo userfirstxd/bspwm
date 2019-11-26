@@ -1,7 +1,7 @@
 # bspwm
 configs default
 
-sudo xbps-install vim xorg-minimal xorg-fonts bspwm sxhkd alacritty feh lxappearance lxdm firefox
+sudo xbps-install vim xorg-minimal xorg-fonts bspwm sxhkd alacritty feh lxappearance lxdm firefox udevil
 
 mkdir .config && cd .config && mkdir bspwm sxhkd
 
